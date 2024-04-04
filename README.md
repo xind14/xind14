@@ -1,6 +1,9 @@
 <div align="center" width="100">
 
-<img src="./img/banner.gif" width="100%" />
+<!-- <img src="https://github.com/xind14/xind14/blob/main/img/banner.gif" width="100%" /> -->
+
+![Banner](https://github.com/xind14/xind14/blob/main/img/banner.gif)
+
 
 </div>
 
